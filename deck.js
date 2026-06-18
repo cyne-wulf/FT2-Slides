@@ -4,7 +4,7 @@
       section: "module",
       type: "title",
       kicker: "WORKSHOP / MODULE 02",
-      title: "Make Your Own Financial Agent",
+      title: "Build Your Own Financial Agent",
       body: ["Data, retrieval, embeddings, and the path from raw records to useful agent context."],
       chips: ["wifi: frontiertower995", "RAG", "Embeddings", "Crunchbase"],
     },
